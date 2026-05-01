@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Women Safety Platform
 
 This repository contains three applications:
@@ -44,3 +45,6 @@ This repository contains three applications:
 - `DL004`
 - `DL005`
 
+=======
+# Women-Safety-
+>>>>>>> e634f1fe8f0ab25ef7a6fbd30b86fa5b2c882852
